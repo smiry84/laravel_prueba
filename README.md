@@ -1,2 +1,2 @@
 # laravel_prueba
-prueba para push project publico
+prueba para push project laravel
